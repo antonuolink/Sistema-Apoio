@@ -1,0 +1,13 @@
+- Como diretor, eu quero que um ChatBot Inteligente ajude-me a ver regularmente o que anda a acontecer no sistema
+- Como membro dos Serviços Acadêmicos, eu quero consultar os dados dos alunos para gerir mais facilmente com a ajuda de um ChatBot Inteligente
+- Como membro dos Serviços Acadêmicos, eu quero utilizar um ChatBot Inteligente para ajudar nos meus pedidos e ser mais fácil, mais rápido e ser mais efeciente por conta ter muitos pedidos
+- Como professor, eu quero efetuar alteração nos horários das minhas aulas com a ajuda de um ChatBot Inteligente
+- Como professor, eu quero poder submeter as notas com a ajuda de um ChatBot Inteligente
+- Como professor, com a ajuda de um ChatBot Inteligente, eu quero poder mandar os trabalhos para os meus alunos realizarem
+- Como aluno, eu quero ver a referência multibanco das propinas com a ajuda de um ChatBot Inteligente para pagar
+- Como aluno, eu quero poder transferir o recibo multibando do meu pagamento das propinas com a ajuda de um ChatBot Inteligente
+- Como aluno, eu quero que um ChatBot Inteligente mostre as minhas notas e a média final do curso
+- Como aluno, eu quero submeter instantaneamente os meus trabalhos com a ajuda de um ChatBot Inteligente sem ter muito trabalho
+- Como aluno, eu quero que um ChatBot Inteligente diga-me quais os trabalhos que tenho por entregar ainda
+- Como aluno, eu quero perguntar a um ChatBot Inteligente aonde eu vou ter aula agora
+- Como aluno, eu quero poder contactar um administrador para resolver os meus problemas com a ajuda de um ChatBot Inteligente
